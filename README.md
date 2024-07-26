@@ -7,3 +7,5 @@
 revisiting git basics 26072024
 <!-- making changes -->
 <!-- to commit the shit out of it!! -->
+
+<!-- testing commit without -m flag -->
